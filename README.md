@@ -1,0 +1,2 @@
+# recipes
+Project within The Odin Project curriculum
